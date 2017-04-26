@@ -19,7 +19,8 @@ public class MinhaCalculadora {
         // TODO code application logic here
         //Apaguei oq fiz ontem ;-;
         //nhaaaaaaaaaa
-         
+         //meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+        //o ze problema seu mermao
         
         //Ajuda Deus
         
